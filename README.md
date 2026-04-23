@@ -1,2 +1,7 @@
-# C-programming-assignments
-This repository contains 22 C programming assignments and a Library Management System project. It demonstrates core programming concepts such as loops, conditionals, functions, structures, file handling (CSV), and menu-driven applications.
+# FOP Lab Assignments
+
+This repository contains all the assignments completed for the Fundamentals of Programming (FOP) lab.
+
+The Assignments folder includes both the Word documents (with questions and explanations) and the corresponding C programs for each assignment.
+
+These assignments cover basic programming concepts such as loops, conditions, functions, arrays, and simple problem solving in C.
