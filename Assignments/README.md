@@ -1,7 +1,11 @@
-This folder contains all 22 C programming assignments submitted as part of coursework.
+# Assignments
 
-Each assignment demonstrates fundamental programming concepts such as:
-- Loops
-- Conditionals
-- Functions
-- Basic problem solving in C
+This folder contains all 22 C programming assignments completed during the course.
+
+It includes:
+- Docs → assignment documents with questions and explanations  
+- Code → corresponding C programs for each assignment  
+
+These assignments cover basic C programming concepts like loops, conditions, functions, arrays, and simple problem solving.
+
+Each assignment file in Docs matches its code file in the Code folder for easy understanding.
